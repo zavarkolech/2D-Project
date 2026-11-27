@@ -13,8 +13,8 @@ A classic 2D platformer prototype built in **Unity (C#)** using Unity's 2D physi
 
 ## 🎮 Controls
 * **A / D or Left / Right Arrows:** Move
-* **Space / W / Up Arrow:** Jump
+* **Space:** Jump
 
 ## 📂 Project Structure (Where to look)
 The core C# scripts are located in `Assets/Scripts/`:
-* `PlayerController2D.cs` — handles horizontal movement, jumping, and ground detection.
+* `Hero.cs` — handles horizontal movement, jumping, and ground detection.
